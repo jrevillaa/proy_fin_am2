@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/jair/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/jair/AndroidStudioProjects/RestaurantCathering/app/build/intermediates/pre-dexed/debug/library-2.4.0-1b9f5d4a8ee00daa932c5c94e838ed9ab31d83ff.jar" />
+    </item>
+    <item
+        jar="/home/jair/AndroidStudioProjects/RestaurantCathering/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/6.5.87/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="95482e7c792a7c0d5a9d5461e97726bd54fe9549">
+        <dex dex="/home/jair/AndroidStudioProjects/RestaurantCathering/app/build/intermediates/pre-dexed/debug/classes-29670f8fbe024391937d35f795c78c62fa5897e2.jar" />
+    </item>
+    <item
+        jar="/home/jair/.gradle/caches/modules-2/files-2.1/com.nostra13.universalimageloader/universal-image-loader/1.9.4/dd9eeb557650c4ad7394df23f0f5cf27a7cfc697/universal-image-loader-1.9.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="dd9eeb557650c4ad7394df23f0f5cf27a7cfc697">
+        <dex dex="/home/jair/AndroidStudioProjects/RestaurantCathering/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.4-1c935ac6877a938c390c19b749808186660ba5f0.jar" />
+    </item>
+    <item
+        jar="/home/jair/AndroidStudioProjects/RestaurantCathering/app/build/intermediates/exploded-aar/com.nhaarman.listviewanimations/lib-core-slh/3.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="49223278ec2ede1d05d00868c5ce3e077b4016f8">
+        <dex dex="/home/jair/AndroidStudioProjects/RestaurantCathering/app/build/intermediates/pre-dexed/debug/classes-e41b5db1808b7f1dde315d743f7dccfb9aa9e0a0.jar" />
+    </item>
+    <item
+        jar="/home/jair/AndroidStudioProjects/RestaurantCathering/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/home/jair/AndroidStudioProjects/RestaurantCathering/app/build/intermediates/pre-dexed/debug/classes-19ba0c6b10a5c5353f38c9a0dbdd9d06f2e36789.jar" />
+    </item>
+    <item
+        jar="/home/jair/AndroidStudioProjects/RestaurantCathering/app/build/intermediates/exploded-aar/com.nhaarman.listviewanimations/lib-core/3.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="acf66033b1418ccf9e15c8e77750981e4809c4ea">
+        <dex dex="/home/jair/AndroidStudioProjects/RestaurantCathering/app/build/intermediates/pre-dexed/debug/classes-2729c4ad2fe76758fba11f617b6ecb790f1dd97e.jar" />
+    </item>
+    <item
+        jar="/home/jair/AndroidStudioProjects/RestaurantCathering/app/build/intermediates/exploded-aar/com.etsy.android.grid/library/1.0.5/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8218789edb56bdcfff7da48e892b37460fc707e2">
+        <dex dex="/home/jair/AndroidStudioProjects/RestaurantCathering/app/build/intermediates/pre-dexed/debug/classes-7f295f817d7e48c8d55397ae306d06c55ce9cbf3.jar" />
+    </item>
+    <item
+        jar="/home/jair/AndroidStudioProjects/RestaurantCathering/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/home/jair/AndroidStudioProjects/RestaurantCathering/app/build/intermediates/pre-dexed/debug/classes-e5b3307c966601f8d957344461cbf8ba4304795a.jar" />
+    </item>
+    <item
+        jar="/home/jair/AndroidStudioProjects/RestaurantCathering/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/6.5.87/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a75b29dc51b364df032af8bcfcad7e54ccfda28d">
+        <dex dex="/home/jair/AndroidStudioProjects/RestaurantCathering/app/build/intermediates/pre-dexed/debug/classes-c77696cb7c35f91d5ae9f7416d6e77ac4eec0117.jar" />
+    </item>
+    <item
+        jar="/home/jair/AndroidStudioProjects/RestaurantCathering/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="/home/jair/AndroidStudioProjects/RestaurantCathering/app/build/intermediates/pre-dexed/debug/classes-0a7874bfb3b7f555bb712396278865a10bc018d5.jar" />
+    </item>
+    <item
+        jar="/home/jair/AndroidStudioProjects/RestaurantCathering/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="/home/jair/AndroidStudioProjects/RestaurantCathering/app/build/intermediates/pre-dexed/debug/classes-b32a12b40c7951f46836282afb5bb1edbaf2e3d2.jar" />
+    </item>
+    <item
+        jar="/home/jair/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/home/jair/AndroidStudioProjects/RestaurantCathering/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-b334ad3ff6f75e8e6aa0414c27fe6ef7b5573cda.jar" />
+    </item>
+    <item
+        jar="/home/jair/AndroidStudioProjects/RestaurantCathering/app/build/intermediates/exploded-aar/br.com.liveo/navigationdrawer-material/1.0.5/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5e9e57adf1c7f791cd18a30e179a6f520fe8587b">
+        <dex dex="/home/jair/AndroidStudioProjects/RestaurantCathering/app/build/intermediates/pre-dexed/debug/classes-01f77c33a9ca04be6ebed6ca272280bdae2bbc88.jar" />
+    </item>
+    <item
+        jar="/home/jair/AndroidStudioProjects/RestaurantCathering/app/build/intermediates/exploded-aar/com.daimajia.slider/library/1.1.5/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="08962e03b6a954c65d4944e092879b7f5ee1208d">
+        <dex dex="/home/jair/AndroidStudioProjects/RestaurantCathering/app/build/intermediates/pre-dexed/debug/classes-a22caab3a4813dfc6c06ee04bde2a0f6957343db.jar" />
+    </item>
+    <item
+        jar="/home/jair/AndroidStudioProjects/RestaurantCathering/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/home/jair/AndroidStudioProjects/RestaurantCathering/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-9cc9732646632665b56df778cd98320a6524eb3e.jar" />
+    </item>
+    <item
+        jar="/home/jair/AndroidStudioProjects/RestaurantCathering/app/build/intermediates/exploded-aar/com.nhaarman.listviewanimations/lib-manipulation/3.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5660e4bf78904137e90e62a5d4cc2e987258f02c">
+        <dex dex="/home/jair/AndroidStudioProjects/RestaurantCathering/app/build/intermediates/pre-dexed/debug/classes-a13e7a90c40c428de31b622ee2a212abfd75374f.jar" />
+    </item>
+    <item
+        jar="/home/jair/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.3.2/d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27/picasso-2.3.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27">
+        <dex dex="/home/jair/AndroidStudioProjects/RestaurantCathering/app/build/intermediates/pre-dexed/debug/picasso-2.3.2-244768d6bfe4e39da1b582b2de815de6da2c10de.jar" />
+    </item>
+
+</items>

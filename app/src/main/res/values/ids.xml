@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item type="id" name="nombre" />
+    <item type="id" name="precio" />
+    <item type="id" name="codigo" />
+    <item type="id" name="cantidad" />
+    <item type="id" name="access" />
+    <item type="id" name="drawable_layout" />
+    <item type="id" name="load" />
+    <item type="id" name="grid_items" />
+    <item type="id" name="empty" />
+    <item type="id" name="ic_item" />
+    <item type="id" name="titulo" />
+    <item type="id" name="detail_titulos_plates" />
+    <item type="id" name="detail_titulos_trago" />
+    <item type="id" name="detail_items_plates" />
+    <item type="id" name="detail_items_trago" />
+    <item type="id" name="artista" />
+    <item type="id" name="genero" />
+    <item type="id" name="rv" />
+    <item type="id" name="save" />
+    <item type="id" name="enviar" />
+    <item type="id" name="seleccionar" />
+    <item type="id" name="add" />
+
+</resources>

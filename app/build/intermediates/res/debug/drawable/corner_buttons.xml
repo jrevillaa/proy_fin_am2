@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:state_pressed="true" android:drawable="@color/red">
+    <!--   <gradient
+            android:angle="270.0"
+            android:endColor="@color/orange"
+            android:startColor="@color/orange" />  -->
+        <shape android:shape="rectangle">
+            <corners android:radius="15dip" />
+        </shape>
+    </item>
+
+    <item android:state_selected="true" android:drawable="@color/red">
+        <shape android:shape="rectangle">
+            <corners android:radius="15dip" />
+        </shape>
+    </item>
+
+
+    <item android:drawable="@color/colorAccent">
+        <shape android:shape="rectangle">
+            <corners android:radius="15dip" />
+        </shape>
+    </item>
+
+
+</selector><!-- From: file:/home/jair/AndroidStudioProjects/RestaurantCathering/app/src/main/res/drawable/corner_buttons.xml -->

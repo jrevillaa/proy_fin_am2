@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="bluelight">#00C7F1</color>
+    <color name="red">#FF3300</color>
+    <color name="redlight">#E74C3C</color>
+    <color name="orange">#FFA733</color>
+    <color name="white">#FFFFFF</color>
+    <color name="graylight">#CCCCCC</color>
+    <color name="graymedium">#7C7C7C</color>
+    <color name="grayhard">#222222</color>
+    <color name="grayrelight">#DDDDDD</color>
+    <color name="yellow">#F6EB40</color>
+    <color name="colorAccent">#860B29</color>
+
+</resources>

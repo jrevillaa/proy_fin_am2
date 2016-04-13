@@ -1,0 +1,293 @@
+{
+  "CARTA": [
+    {
+      "id": "1",
+      "nombre": "Lomo saltado",
+      "descripcion": "Tipico plato nacional en base a carne con dorada papas fritas y arroz",
+      "precio": "25",
+      "imagen": "pp1.jpg",
+      "tipo": "pf"
+    },
+    {
+      "id": "2",
+      "nombre": "Arroz con pato",
+      "descripcion": "Arroz verde con pato norteno frito y ensalada verde",
+      "precio": "28",
+      "imagen": "pp2.jpg",
+      "tipo": "pf"
+    },
+    {
+      "id": "3",
+      "nombre": "Arroz con Pollo",
+      "descripcion": "Arroz verde con pollo frito y ensalada verde",
+      "precio": "21",
+      "imagen": "pp3.jpg",
+      "tipo": "pf"
+    },
+    {
+      "id": "4",
+      "nombre": "Pollo al Horno",
+      "descripcion": "Acompanado de papas sancochada",
+      "precio": "19",
+      "imagen": "pp4.jpg",
+      "tipo": "pf"
+    },
+    {
+      "id": "5",
+      "nombre": "Bisteck Apanado",
+      "descripcion": "Corte de res fino acomapanado de papas doradas",
+      "precio": "27",
+      "imagen": "pp5.jpg",
+      "tipo": "pf"
+    },
+    {
+      "id": "6",
+      "nombre": "Aji de Gallina",
+      "descripcion": "Consiste en una crema espesa compuesta por leche, pan y caldo al que se le agrega gallina cocida y desmenuzada. Se sirve con papas y/o arroz.",
+      "precio": "18",
+      "imagen": "pp6.jpg",
+      "tipo": "pf"
+    },
+    {
+      "id": "7",
+      "nombre": "Tallarin Saltado",
+      "descripcion": "Plato que resulta de la combinación de fideos sancochados con sal con un juguito preparado en una sartén con aceite bien caliente en el cual se dora la carne previamente sazonada con sal pimienta",
+      "precio": "16",
+      "imagen": "pp7.jpg",
+      "tipo": "pf"
+    },
+    {
+      "id": "8",
+      "nombre": "Carapulcra",
+      "descripcion": "Es un potaje tradicional indígena que se prepara con la papa seca sancochada y guisada con carnes de chancho y gallina, ají panca y mirasol, ajos y otras especias.",
+      "precio": "35",
+      "imagen": "pp8.jpg",
+      "tipo": "pf"
+    },
+    {
+      "id": "9",
+      "nombre": "Arroz Chaufa",
+      "descripcion": "Sabroso plato que consiste en la mezcla de arroz frito combinado con verduras, entre ellas la cebolla china, además de tortilla de huevo en trozos y carnes al gusto salteado a fuego alto y muy rápido en un wok con sillao y aceite.",
+      "precio": "30",
+      "imagen": "pp9.jpg",
+      "tipo": "pf"
+    },
+    {
+      "id": "10",
+      "nombre": "Cau Cau",
+      "descripcion": "Delicioso plato preparado con mondongo sancochado en trozos y papas combinados con una salsa preparada con aceite y cebolla frita, ajos, comino, palillo y Ají. El mondongo cocido y las papas sancochadas en trozos son agregadas a dicha salsa y luego se da un hervor. Se le agrega jugo de limón y hierbabuena cuando está para servir. Se sirve con arroz graneado.",
+      "precio": "26",
+      "imagen": "pp10.jpg",
+      "tipo": "pf"
+    },
+
+    {
+      "id": "101",
+      "nombre": "Ceviche",
+      "descripcion": "Pescado fresco acompa;ado de una camoes y yucas",
+      "precio": "8",
+      "imagen": "ep1.jpg",
+      "tipo": "pe"
+    },
+
+    {
+      "id": "102",
+      "nombre": "Causa rellena",
+      "descripcion": "Papa con aji rellena de pollo",
+      "precio": "5",
+      "imagen": "ep2.jpg",
+      "tipo": "pe"
+    },
+
+    {
+      "id": "103",
+      "nombre": "Tamal",
+      "descripcion": "Tamal relleno de pollo",
+      "precio": "7",
+      "imagen": "ep3.jpg",
+      "tipo": "pe"
+    },
+
+    {
+      "id": "104",
+      "nombre": "Sopa de pollo",
+      "descripcion": "Sopa de pollo con fideos",
+      "precio": "6",
+      "imagen": "ep4.jpg",
+      "tipo": "pe"
+    },
+
+    {
+      "id": "105",
+      "nombre": "Ocopa",
+      "descripcion": "Papa sanchochada con crema verde",
+      "precio": "6",
+      "imagen": "ep5.jpg",
+      "tipo": "pe"
+    },
+
+    {
+      "id": "106",
+      "nombre": "Papa rellena",
+      "descripcion": "Papa sancochaa frita con relleno de pollo aceituna y huevo.",
+      "precio": "3",
+      "imagen": "ep6.jpg",
+      "tipo": "pe"
+    },
+
+    {
+      "id": "107",
+      "nombre": "Teque;os",
+      "descripcion": "Acompa;ados de salsa deaguacate.",
+      "precio": "4",
+      "imagen": "ep7.jpg",
+      "tipo": "pe"
+    },
+
+    {
+      "id": "201",
+      "nombre": "Selva negra",
+      "descripcion": "Rica torta de chocolate.",
+      "precio": "8",
+      "imagen": "po1.jpg",
+      "tipo": "pt"
+    },
+
+    {
+      "id": "202",
+      "nombre": "Tres leches",
+      "descripcion": "Rica torta de chocolate",
+      "precio": "8",
+      "imagen": "po2.jpg",
+      "tipo": "pt"
+    },
+
+    {
+      "id": "203",
+      "nombre": "Torta helada",
+      "descripcion": "Torta helada, leche descremada batida con gelatina dietética de fresa y piña, el centro dos capas de suave bizcochuelo.",
+      "precio": "8",
+      "imagen": "po3.jpg",
+      "tipo": "pt"
+    },
+
+
+    {
+      "id": "204",
+      "nombre": "Helado de vainilla",
+      "descripcion": "Ric helado de vainilla de 3 bolas acompa;ado con galleta.",
+      "precio": "8",
+      "imagen": "po4.jpg",
+      "tipo": "pt"
+    },
+
+
+    {
+      "id": "205",
+      "nombre": "Mazamorra",
+      "descripcion": "La mazamorra morada es un postre típico de la gastronomía peruana elaborado a base de maíz morado concentrado con fécula.",
+      "precio": "8",
+      "imagen": "po5.jpg",
+      "tipo": "pt"
+    },
+
+
+    {
+      "id": "206",
+      "nombre": "Arroz con leche",
+      "descripcion": "El arroz con leche, es un postre típico que se prepara en distintos países cociendo el arroz en leche.",
+      "precio": "8",
+      "imagen": "po6.jpg",
+      "tipo": "pt"
+    },
+
+
+    {
+      "id": "207",
+      "nombre": "Torta de galletas",
+      "descripcion": "Capas de galletas Marías cubiertas de una mezcla congelada de leches condensada y evaporada con jugo de limón.",
+      "precio": "8",
+      "imagen": "po7.jpg",
+      "tipo": "pt"
+    },
+
+
+    {
+      "id": "208",
+      "nombre": "Crema Volteada",
+      "descripcion": "Exquisita receta de postre peruano, muy cremosa y suave, un poco parecida a la leche asada.",
+      "precio": "8",
+      "imagen": "po8.jpg",
+      "tipo": "pt"
+    },
+
+    {
+      "id": "301",
+      "nombre": "Gaseosa",
+      "descripcion": "Inka, Coca,Pepsi",
+      "precio": "3",
+      "imagen": "bi1.jpg",
+      "tipo": "bb"
+    },
+
+    {
+      "id": "302",
+      "nombre": "Limonada",
+      "descripcion": "Rica limonada helada",
+      "precio": "6",
+      "imagen": "bi2.jpg",
+      "tipo": "bb"
+    },
+
+
+    {
+      "id": "303",
+      "nombre": "Chicha morada",
+      "descripcion": "a base de mais natural",
+      "precio": "6",
+      "imagen": "bi3.jpg",
+      "tipo": "bb"
+    },
+
+
+    {
+      "id": "304",
+      "nombre": "Maracuya Frozen",
+      "descripcion": "Maracuya fronze",
+      "precio": "12",
+      "imagen": "bi4.jpg",
+      "tipo": "bb"
+    },
+
+
+    {
+      "id": "305",
+      "nombre": "Vino",
+      "descripcion": "Vino tinto para acompa;ar carnes rojas",
+      "precio": "26",
+      "imagen": "bi5.jpg",
+      "tipo": "bb"
+    },
+
+
+    {
+      "id": "306",
+      "nombre": "Cerveza",
+      "descripcion": "Pilsen, Cristal, Corona",
+      "precio": "9",
+      "imagen": "bi6.jpg",
+      "tipo": "bb"
+    },
+
+
+    {
+      "id": "307",
+      "nombre": "Pisco sour",
+      "descripcion": "Trago bandera nacional a base de pisco",
+      "precio": "18",
+      "imagen": "bi7.jpg",
+      "tipo": "bb"
+    }
+
+  ]
+}

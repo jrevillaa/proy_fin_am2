@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    <item
+        android:id="@id/enviar"
+        android:icon="@drawable/ic_pedido"
+        android:title="Pedido"/>
+
+</menu><!-- From: file:/home/jair/AndroidStudioProjects/RestaurantCathering/app/src/main/res/menu/menu_detalle.xml -->

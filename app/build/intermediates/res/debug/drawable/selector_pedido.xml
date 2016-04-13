@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_selected="true"
+        android:drawable="@drawable/ic_add_on" />
+    <item android:state_pressed="true"
+        android:drawable="@drawable/ic_add_on" />
+    <item android:drawable="@drawable/ic_add"/>
+</selector><!-- From: file:/home/jair/AndroidStudioProjects/RestaurantCathering/app/src/main/res/drawable/selector_pedido.xml -->

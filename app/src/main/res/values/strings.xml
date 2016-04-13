@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Restaurant</string>
+
+    <string name="local_name">Catering &amp; Restaurant</string>
+    <string name="local_email">catering&amp;restaurant@gmail.com</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="database">Restaurantdb</string>
+
+    <string name="pedido">pedido</string>
+    <string name="key">key</string>
+    <string name="tipo">tipo</string>
+    <string name="platos">platos</string>
+    <string name="tragos">tragos</string>
+
+    <string name="add">Add</string>
+
+    <string name="menu_option1">CARTA</string>
+    <string name="menu_option2">Entradas</string>
+    <string name="menu_option3">Platos de fondo</string>
+    <string name="menu_option4">Bebidas</string>
+    <string name="menu_option5">Postres</string>
+    <string name="menu_option6">OPCIONES</string>
+    <string name="menu_option7">Galería</string>
+    <string name="menu_option8">Ubicacion</string>
+
+    <!-- mensajes -->
+    <string name="msg_add_successful">Agregaste a lista de pedidos</string>
+    <string name="msg_pedido">Tu pedido a sido solicitado, en breves momentos seras atendido</string>
+    <string name="msg_orden">Aun no has ordenado nada</string>
+    <string name="msg_empty_data">No hay datos para mostrar</string>
+    <string name="msg_loging">Cargando datos...</string>
+    <string name="msg_buscando">Buscando...</string>
+    <string name="msg_logout">Cerrando session...</string>
+    <string name="msg_enviar_pedido">Enviando pedido...</string>
+    <string name="msg_add_pedido">Has adicionado </string>
+    <string name="msg_detalle_pedido_1">Cantidad </string>
+    <string name="msg_detalle_pedido_2">un monto de </string>
+    <string name="msg_error_pedido">Estamos recibiendo muchas solicitudes, por favor vuelva a intentarlo en unos minutos</string>
+
+    <string name="fb">EGvlvw97zW6GsLQ2fwZIB86g3oU=</string>
+    <string name="fbid">1677485742474185</string>
+
+
+
+    <string name="entrada">pe</string>
+    <string name="fondo">pf</string>
+    <string name="postre">pt</string>
+    <string name="bebida">bb</string>
+
+
+    <string name="key_api">AIzaSyDWzIg3DVxyXycJhnERWlc1gmFXzoHmziM</string>
+
+
+
+</resources>

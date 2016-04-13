@@ -1,0 +1,38 @@
+<resources>
+
+    <!--Customize here the subject of your application-->
+    <style name="myTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+      <item name="colorPrimary">@color/nliveo_blue_colorPrimary</item>
+      <item name="colorPrimaryDark">@color/nliveo_blue_colorPrimaryDark</item>
+      <item name="colorAccent">@color/nliveo_blue_colorPrimary</item>
+      <item name="android:textColorPrimary">@color/black</item>
+
+    </style>
+
+    <style name="ProgressBarStyle" parent="@android:style/Widget.ProgressBar.Horizontal"/>
+
+<!--Here will be the theme of the class that will extends NavigationLiveo-->
+    <style name="nLiveoDrawer" parent="nLiveo.Theme.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorAccent</item>
+    </style>
+
+
+    <style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <item name="android:actionBarStyle">@style/MyActionBar</item>
+    </style>
+
+    <style name="MyActionBar" parent="@android:style/Widget.Holo.Light.ActionBar">
+        <item name="android:background">@color/colorAccent</item>
+        <item name="android:titleTextStyle">@style/MyActionBarTitleText</item>
+
+        <item name="background">@color/colorAccent</item>
+        <item name="titleTextStyle">@style/MyActionBarTitleText</item>
+    </style>
+
+    <style name="MyActionBarTitleText" parent="@style/TextAppearance.AppCompat.Widget.ActionBar.Title">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+</resources>

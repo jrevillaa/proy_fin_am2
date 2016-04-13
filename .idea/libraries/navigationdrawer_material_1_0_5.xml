@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="navigationdrawer-material-1.0.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/br.com.liveo/navigationdrawer-material/1.0.5/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/br.com.liveo/navigationdrawer-material/1.0.5/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/br.com.liveo/navigationdrawer-material/1.0.5/5663959199008ccafe42845c27e4875aa438e860/navigationdrawer-material-1.0.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
